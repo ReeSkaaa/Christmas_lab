@@ -60,7 +60,6 @@
 :snowflake:
 
 ## Дополнительные источники :gift:
-:snowflake:
 
 1. [Шифрование файлов и папок в Linux.](https://losst.pro/shifrovanie-fajlov-i-papok-v-linux)
 2. [Утилита GPG](https://habr.com/ru/articles/358182/) :snowflake:
