@@ -12,6 +12,6 @@
 
 5) Записываю содержимое дешифрованного файла в новый файл ```decrypt.bash``` и запускаю его. На выходе должен быть падающий снег.
 
-   ![](Christmas_lab/solution//result.png)
+![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
 
 
